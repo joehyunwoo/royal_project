@@ -27,41 +27,41 @@
 ***
 
 ## mission
-> * 김준형, 조현우 : 공공 API 연계 후 데이터 캐싱(DB) [[Commit]](https://github.com/kimj0131/royal_project/commit/b2bce768f3d814af2542e768a4397b3d1be525f8)
+> * 김준형, 조현우 : 공공 API 연계 후 데이터 캐싱(DB) [[Commit]](https://github.com/joehyunwoo/royal_project/commit/b2bce768f3d814af2542e768a4397b3d1be525f8)
 
-> * 김준형 : Spring scheduler로 공공 API 갱신주기 설정 [[Commit]](https://github.com/kimj0131/royal_project/commit/33482572463fdb34d4146daf1298d9ea5e3bc5da)
+> * 김준형 : Spring scheduler로 공공 API 갱신주기 설정 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/33482572463fdb34d4146daf1298d9ea5e3bc5da)
 
-> * 김준형 : 네이버 로그인 API 연계 [[Commit]](https://github.com/kimj0131/royal_project/commit/4e2913ff5720284ab7ea7f97da3b6c5f3dd4e66b)
+> * 김준형 : 네이버 로그인 API 연계 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/4e2913ff5720284ab7ea7f97da3b6c5f3dd4e66b)
 
-> * 조현우 : 카카오 로그인 API 연계 [[Commit]](https://github.com/kimj0131/royal_project/commit/7eb75f11a4e2cc01dd2f1e1aef8b4cf4b995b200)
+> * 조현우 : 카카오 로그인 API 연계 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/7eb75f11a4e2cc01dd2f1e1aef8b4cf4b995b200)
 
-> * 조현우 : 각각의 궁 내부 건축물 페이지 테스트 코드 작성 [[Commit]](https://github.com/kimj0131/royal_project/commit/1ca63792ed713a0112a4760b8fe12210915a52e3)
+> * 조현우 : 각각의 궁 내부 건축물 페이지 테스트 코드 작성 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/1ca63792ed713a0112a4760b8fe12210915a52e3)
 
-> * 방혜미 : 테스트코드 및 공공API 데이터활용, 4대궁궐 및 종묘 내부 건축물 정보 데이터 표시 [[Commit]](https://github.com/kimj0131/royal_project/commit/4d064e4af6bbd1177c85bf19ec7aa69d7ccdcd76)
+> * 방혜미 : 테스트코드 및 공공API 데이터활용, 4대궁궐 및 종묘 내부 건축물 정보 데이터 표시 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/4d064e4af6bbd1177c85bf19ec7aa69d7ccdcd76)
 
 > * 김태형 : 카카오 지도 api 연계
 
-> * 조현우, 김준형 : Event 테이블 데이터 추가 시 회차만큼 Event_round 테이블 데이터 추가하는 service [[Commit_1]](https://github.com/kimj0131/royal_project/commit/df13ec3e732f5fa6803c16d42b58d2afc91e42a9) [[Commit_2]](https://github.com/kimj0131/royal_project/commit/f856a8d61cbe07e3e5bfee5becbc1c6204e3cc7c)
+> * 조현우, 김준형 : Event 테이블 데이터 추가 시 회차만큼 Event_round 테이블 데이터 추가하는 service [[Commit_1]](https://github.com/joehyunwoo/royal_project/commit/df13ec3e732f5fa6803c16d42b58d2afc91e42a9) [[Commit_2]](https://github.com/joehyunwoo/royal_project/commit/f856a8d61cbe07e3e5bfee5becbc1c6204e3cc7c)
 
-> * 김준형 : user, manage 로그인 확인 방법을 servlet filter에서 확인하도록 설정 [[Commit]](https://github.com/kimj0131/royal_project/commit/b9f155d03e6ee038dc20391c5d381a317744250e)
+> * 김준형 : user, manage 로그인 확인 방법을 servlet filter에서 확인하도록 설정 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/b9f155d03e6ee038dc20391c5d381a317744250e)
 
-> * 김준형 : 관리자 페이지에 전체에 필요한 데이터(__알림수를 표시하기 위한 답변없는 Q&A리스트__)를 전달하기위해 spring intercepter 활용 [[Commit]](https://github.com/kimj0131/royal_project/commit/e2c1d534462ef27757f14a5147abf7fe4cbecea6)
+> * 김준형 : 관리자 페이지에 전체에 필요한 데이터(__알림수를 표시하기 위한 답변없는 Q&A리스트__)를 전달하기위해 spring intercepter 활용 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/e2c1d534462ef27757f14a5147abf7fe4cbecea6)
 
-> * 장호동 : 공지사항 - 조건을 정해 검색할 수 있는 servie [[Commit]](https://github.com/kimj0131/royal_project/commit/8fe27658d6cb29ba94be1aeedb7b85d5b7de13e6)
+> * 장호동 : 공지사항 - 조건을 정해 검색할 수 있는 servie [[Commit]](https://github.com/joehyunwoo/royal_project/commit/8fe27658d6cb29ba94be1aeedb7b85d5b7de13e6)
 
-> * 조현우 : 관리자Page - 디자인 템플릿을 받아와서 현재 프로젝트에 맞게 수정하고 예약, 행사, 자주묻는질문, 공지사항 페이지에서 데이터를 DB에 쉽게 추가, 수정, 삭제할 수 있도록 GUI 구축 [[Commit]](https://github.com/kimj0131/royal_project/commit/5e743f0d5beccebd4ed739dfcbc97d80c72fe651)
+> * 조현우 : 관리자Page - 디자인 템플릿을 받아와서 현재 프로젝트에 맞게 수정하고 예약, 행사, 자주묻는질문, 공지사항 페이지에서 데이터를 DB에 쉽게 추가, 수정, 삭제할 수 있도록 GUI 구축 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/5e743f0d5beccebd4ed739dfcbc97d80c72fe651)
 
-> * 방혜미 : 해설예약페이지 - 달력 추가 (jQuery UI Datepicker) [[Commit]](https://github.com/kimj0131/royal_project/commit/5fc18c07c3f1e50a4e91a4b381fbd41b2d0a4bf2)
+> * 방혜미 : 해설예약페이지 - 달력 추가 (jQuery UI Datepicker) [[Commit]](https://github.com/joehyunwoo/royal_project/commit/5fc18c07c3f1e50a4e91a4b381fbd41b2d0a4bf2)
 
-> * 방혜미 : 해설예약페이지 - 날짜 클릭 시 해당 해설의 회차 리스트 표시(js switch 구문으로 궁id별 해설id 매칭, 요청한 데이터를 페이지에 표시) [[Commit]](https://github.com/kimj0131/royal_project/commit/0f3b0e5d954c4804e922910b9a6c8a76fc95974f)
+> * 방혜미 : 해설예약페이지 - 날짜 클릭 시 해당 해설의 회차 리스트 표시(js switch 구문으로 궁id별 해설id 매칭, 요청한 데이터를 페이지에 표시) [[Commit]](https://github.com/joehyunwoo/royal_project/commit/0f3b0e5d954c4804e922910b9a6c8a76fc95974f)
 
-> * 김민주, 조현우 : 행사페이지 - 상단에 년/월을 선택하고 하단에는 선택한 년/월의 행사 목록을 비동기로 요청해 슬라이드 형식으로 출력하는 페이지 완성 [[Commit]](https://github.com/kimj0131/royal_project/commit/8c85ad7ef50ec330a74b6e1d53d0f037b9549a35)
+> * 김민주, 조현우 : 행사페이지 - 상단에 년/월을 선택하고 하단에는 선택한 년/월의 행사 목록을 비동기로 요청해 슬라이드 형식으로 출력하는 페이지 완성 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/8c85ad7ef50ec330a74b6e1d53d0f037b9549a35)
 
-> * 황진솔 : 메인 페이지- 이미지데이터를 가져와 슬라이드 형식으로 구현 [[Commit]](https://github.com/kimj0131/royal_project/commit/610337a53065fe81f837647c619b85ed21def18f)
+> * 황진솔 : 메인 페이지- 이미지데이터를 가져와 슬라이드 형식으로 구현 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/610337a53065fe81f837647c619b85ed21def18f)
 
 > * 김태형 : 이메일 발송 기능 구현 (구글 API 사용), 이메일 발송기능 gmail 계정정보 properties 파일화
 
-> * 조현우 : 해설예약페이지 - 궁/날짜/회차를 선택하고 인원을 설정한 후 동의사항을 체크하면 해설예약을 할 수 있는 페이지 완성 [[Commit]](https://github.com/kimj0131/royal_project/commit/acbdc9238a40581477c47bca7f0aaa7e6bd643d7)
+> * 조현우 : 해설예약페이지 - 궁/날짜/회차를 선택하고 인원을 설정한 후 동의사항을 체크하면 해설예약을 할 수 있는 페이지 완성 [[Commit]](https://github.com/joehyunwoo/royal_project/commit/acbdc9238a40581477c47bca7f0aaa7e6bd643d7)
 ***
 
 ## 발생한 문제
