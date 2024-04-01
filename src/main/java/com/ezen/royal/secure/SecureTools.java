@@ -8,7 +8,7 @@ public class SecureTools {
 	public static String getHashedString(String password) {
 		
 		try {
-			byte[] hashed = MessageDigest.getInstance("SHA256")
+			byte[] hashed = MessageDigest.getInstance("SHA-256")
 					.digest(password.getBytes());
 			
 			StringBuilder builder = new StringBuilder();

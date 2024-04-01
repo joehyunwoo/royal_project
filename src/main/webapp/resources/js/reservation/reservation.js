@@ -25,7 +25,7 @@ function createDefaultEventRound() {
 
 		const newDefault_event_round_img = document.createElement('img');
 		newDefault_event_round_img.classList.add('default_event_round_img');
-		newDefault_event_round_img.src = 'http://localhost:9000/royal/resources/image/reservation/caution.png';
+		newDefault_event_round_img.src = '/royal/resources/image/reservation/caution.png';
 
 		const newDefault_event_round_text = document.createElement('div');
 		newDefault_event_round_text.classList.add('default_event_round_text');

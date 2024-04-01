@@ -161,7 +161,7 @@ function createDefaultEvent() {
 	// 이미지 ID "eventImg_default"와 이미지 URL을 가진 img 요소
 	const eventImg = document.createElement("img");
 	eventImg.id = "eventImg_default";
-	eventImg.src = "http://localhost:9000/royal/resources/image/event/noEvent.png";
+	eventImg.src = "/royal/resources/image/event/noEvent.png";
 
 	// "eventContent_default" ID를 가진 div 요소
 	const eventContent = document.createElement("div");

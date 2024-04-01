@@ -99,6 +99,10 @@ a {
 	text-align: right;
 }
 
+.sub_main_menu .menu:nth-child(odd) a {
+	text-align: left;
+}
+
 .sub_main_menu .menu .banner_txt .txt_small {
 	font-size: 15px;
 	font-weight: 300;
